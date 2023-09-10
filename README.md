@@ -179,3 +179,10 @@ This repository employs ResNet-50 embeddings, which are utilized in a cosine sim
 ![Checkout page](/public/image-7.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Devlopers:
+
+1. Akash Gupta, B.Tech in Electronics and Communications Engineering
+2. Apoorva Bhardwaj,B.Tech in Electrical Engineering
+3. Rohit Kumar,B.Tech in Computer Science and Engineering
+4. Tarun Shrivastava,M.Tech in Computer Science and Engineering 
