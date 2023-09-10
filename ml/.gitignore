@@ -1,0 +1,11 @@
+catalog/*/*
+catalog/data.csv
+catalog/embeds.pickle
+fine_tuning
+junk
+pick_option/*
+searches
+zalando
+image_gen_output.png
+public_url.txt
+*.zip
